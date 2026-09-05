@@ -6,7 +6,7 @@ Features:
 - Volume control using a Potentiometer
 
 KiCad Wiring Schematic:
-![Wiring Diagram](Mp3PlayerLayout.svg)
+![Wiring Diagram](Images/Mp3PlayerLayout.svg)
 
 Future Plans:
 - Adding buttons for previous, next, and pause functions
