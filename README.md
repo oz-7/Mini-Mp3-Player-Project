@@ -8,3 +8,6 @@ Features:
 Future Plans
 - Adding buttons for previous, next, and pause functions
 - Finding a more stable method of connecting jumper wires.. or using another method
+
+References:
+- [DFRobot/DFRobtDFPlayerMini Library] (https://github.com/DFRobot/DFRobotDFPlayerMini/tree/master)
