@@ -4,17 +4,17 @@ A Mini MP3 Player Prototype made from Arduino Nano, DFPlayer Mini, a speaker, an
 ## Physical Prototype
 ![Physical Prototype](Images/PhysicalPrototype.png)
 
-Features:
+### Features:
 - Plays MP3 File stored on an SD card within the DFPlayer Mini
 - Volume control using a Potentiometer
 
-KiCad Wiring Schematic:
+### KiCad Wiring Schematic:
 ![Wiring Diagram](Images/Mp3PlayerLayout.svg)
 
-Future Plans:
+### Future Plans:
 - Adding buttons for previous, next, and pause functions
 - Finding a more stable method of connecting jumper wires.. or using another method
 
-References:
+### References:
 - [DFRobot/DFRobtDFPlayerMini Library](https://github.com/DFRobot/DFRobotDFPlayerMini/tree/master)
 - [DFPlayer Mini Pins](https://wiki.dfrobot.com/dfr0299/#tech_specs)
