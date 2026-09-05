@@ -14,3 +14,4 @@ Future Plans:
 
 References:
 - [DFRobot/DFRobtDFPlayerMini Library](https://github.com/DFRobot/DFRobotDFPlayerMini/tree/master)
+- [DFPlayer Mini Pins](https://wiki.dfrobot.com/dfr0299/#tech_specs)
