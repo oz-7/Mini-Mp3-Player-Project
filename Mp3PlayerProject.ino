@@ -2,7 +2,8 @@
 Arduino Mp3 Player Project
 Date Started: July 8 2026
 Last Updated: Sep 5 2026
-Notes: Thinking of adding some buttons for previous, pause, next song...
+Notes: mp3 files need to be uploaded into the microSD card ahead of time with the file names
+       that begin with 001, 002, 003...
 */
 
 #include <SoftwareSerial.h>
