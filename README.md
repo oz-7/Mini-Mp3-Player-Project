@@ -11,5 +11,3 @@ Future Plans
 
 References:
 - [DFRobot/DFRobtDFPlayerMini Library](https://github.com/DFRobot/DFRobotDFPlayerMini/tree/master)
-
-- [Wiring Reference](https://wiki.dfrobot.com/dfr0299/docs/20906)
