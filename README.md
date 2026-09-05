@@ -1,5 +1,5 @@
 # Mini-MP3-Player-Project
-A Mini MP3 Player Prototype made from Arduino Nano, DFPlayer Mini, a speaker, and a potentiometer.
+A Mini MP3 Player Prototype made from Arduino Nano, DFPlayer Mini \(+ micro SD card\), a speaker, and a potentiometer.
 
 ## Physical Prototype
 <img src="Images/PhysicalPrototype.png" width="500">
