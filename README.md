@@ -5,6 +5,10 @@ Features:
 - Plays MP3 File stored on an SD card within the DFPlayer Mini
 - Volume control using a Potentiometer
 
+KiCad Wiring Diagram
+![Wiring Diagram](Mp3PlayerLayout.pdf)
+
+
 Future Plans
 - Adding buttons for previous, next, and pause functions
 - Finding a more stable method of connecting jumper wires.. or using another method
